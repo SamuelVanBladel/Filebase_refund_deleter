@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=filebasedeletion;AccountKey=acik8Lkw6Iamy+kO23lOfMEAMpCkswbS4XRvtebrQVY9ZlfuGnAAxt+IlFEIoLvcbe0J+FZKNCR1+ASti8jWRA==;EndpointSuffix=core.windows.net",
+    "S3_KEY": "3C9339E4E7934D6F0657",
+    "S3_SECRET": "Ajm4tviqX34mPFWkLvUpi4GECa7SVArj04IEMqq8",
+    "BUCKET_NAME": "aura-viva01"
+  }
+}
+
